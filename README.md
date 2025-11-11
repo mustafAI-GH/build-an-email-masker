@@ -1,1 +1,6 @@
-# build-an-email-masker
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Build a Celsius to Fahrenheit Converter**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
